@@ -108,7 +108,7 @@ def city_name():
 
 Label(root, text="Enter your city: ", font="Poppins 10", bg="#eccc2b").place(x=10, y=11)
 
-# Search Bar and Button
+# Search Bar and Button - function will get executed after presing button
 city_nameButton = Button(root, text="Get Weather", command=city_name, width=15, bg="white", height=1, cursor="arrow", font="Poppins 10 ")
 city_nameButton.place(x=400, y=10)
 
