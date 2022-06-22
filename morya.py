@@ -1,4 +1,4 @@
-# Weather Application using Weather API
+# Weather Application using API
 
 # importing the libraries
 from tkinter import *
