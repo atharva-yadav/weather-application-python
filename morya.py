@@ -1,6 +1,6 @@
 # Weather Application using API
 
-# importing the libraries
+# Importing the libraries
 from tkinter import *
 import requests
 import json
